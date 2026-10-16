@@ -1,0 +1,7 @@
+# Pracovní soubory, které nepatří na web
+instrukce.md
+.vscode/
+
+# Nepoužité zdrojové obrázky (na webu se používají zmenšené verze)
+obrazky/hlavni/favicon.png
+obrazky/hlavni/logo.png
