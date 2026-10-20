@@ -25,11 +25,11 @@
 
 ## Ceník
 - Jednotlivá lekce 60 minut: 650 Kč
-- Jednotlivá lekce 90 minut: 900 Kč
-- Balíček 5 × 60 minut: 3 000 Kč (600 Kč/lekce, platnost 3 měsíce)
+- Jednotlivá lekce 90 minut: 950 Kč
+- Balíček 5 × 60 minut: 2 750 Kč (550 Kč/lekce, platnost 3 měsíce)
 - Balíček 5 × 90 minut: 4 250 Kč (850 Kč/lekce, platnost 3 měsíce)
-- Úvodní lekce ZŠ (60 min): 450 Kč
-- Úvodní lekce přijímačky (90 min): 700 Kč
+- První lekce: 400 Kč
+- Skupinová lekce pro 2 studenty: stejná cena jako individuální lekce
 
 ## Odkazy
 - Úvod: https://lucielouckova.cz/

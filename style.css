@@ -1377,6 +1377,15 @@ section {
   margin-bottom: var(--space-16);
 }
 
+/* Nabídka v hero sekci úvodní stránky (první lekce, cena pro dva) */
+.hero-offer {
+  margin-top: var(--space-24);
+}
+
+.hero-offer strong {
+  color: var(--color-primary);
+}
+
 /* Témata jako štítky vedle sebe (stránka ZŠ) */
 .topic-chips {
   list-style: none;
