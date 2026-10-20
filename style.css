@@ -380,6 +380,7 @@ section {
   width: 32px;
   height: 22px;
   padding: 0;
+  position: relative; /* Bez toho z-index nefunguje a otevřené menu tlačítko zakryje */
   z-index: 1010;
 }
 
@@ -418,6 +419,7 @@ section {
 
   .nav-menu {
     position: fixed;
+    z-index: 1001; /* Nad ztmaveným pozadím (.nav-backdrop, 999) */
     top: 0;
     right: -100%;
     width: 82%;
